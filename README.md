@@ -1,0 +1,1 @@
+<iframe src="https://giphy.com/embed/Q8JQqiVYDi3IA9SHne" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/torontocondos-girl-brunette-silky-hair-Q8JQqiVYDi3IA9SHne">via GIPHY</a></p>

@@ -26,7 +26,7 @@
   <div id='about-me' align='left'>
       <ul>
         <li>👩‍💻 Data Product Consultant at <a href='https://www.kubrickgroup.com/uk/'>Kubrick Group</a></li>
-        <li>🎓 Imperial College London Class of 2022 </li>
+        <li>🎓 <b>Imperial College London</b> Class of 2022 </li>
         <li>🤍 Love playing the piano, gaming and all things tech</li>
         <li>🏊‍♀️ National swimmer</li>
       </ul>

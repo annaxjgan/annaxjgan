@@ -6,7 +6,7 @@
   </div>
   
   <div id='my-details'>
-    <h3> 👩 Anna Gan &nbsp; | &nbsp; 👩‍💻 Data Product Consultant &nbsp; | &nbsp; 🇬🇧󠁢󠁥󠁮󠁧󠁿󠁧󠁢 London</h3>
+    <h3> 👩 Anna Gan &nbsp; | &nbsp; 👩‍💻 Data Product Consultant &nbsp; | &nbsp;🇬🇧󠁢󠁥󠁮󠁧󠁿󠁧󠁢 London</h3>
   </div>
 
   <br />

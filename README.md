@@ -27,7 +27,7 @@
       <ul>
         <li>👩‍💻 Data Product Consultant at <a href='https://www.kubrickgroup.com/uk/'>Kubrick Group</a></li>
         <li>🎓 <b>Imperial College London</b> Class of 2022 </li>
-        <li>🤍 Pianist, gamer, tech nerd</li>
+        <li>🤍 Pianist, artist, tech nerd</li>
         <li>🏊‍♀️ National swimmer</li>
       </ul>
   </div>

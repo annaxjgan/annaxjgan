@@ -6,7 +6,7 @@
   </div>
   
   <div id='my-details'>
-    <h3> 👩 Anna Gan &nbsp; | &nbsp; 👩‍💻 Data Product Consultant &nbsp; | &nbsp;🇬🇧󠁢󠁥󠁮󠁧󠁿󠁧󠁢 London</h3>
+    <h3> 👩 Anna Gan &nbsp; | &nbsp; 👩‍💻 Computing Student &nbsp; | &nbsp;🇦🇺 Melbourne, AU</h3>
   </div>
 
   <br />
@@ -25,9 +25,9 @@
   
   <div id='about-me' align='left'>
       <ul>
-        <li>👩‍💻 Data Product Consultant at <a href='https://www.kubrickgroup.com/uk/'>Kubrick Group</a></li>
+        <li>👩‍💻 IT, Computing Student @ <a href='[https://www.kubrickgroup.com/uk/](https://study.unimelb.edu.au/find/courses/graduate/master-of-information-technology/)'>The University of Melbourne</a></li>
+        <li>🏊‍♀️ Frontend Developer</li>
         <li>🎓 <b>Imperial College London</b> Class of 2022 </li>
-        <li>🤍 Pianist, artist, tech nerd</li>
         <li>🏊‍♀️ National swimmer</li>
       </ul>
   </div>

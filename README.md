@@ -1,9 +1,10 @@
 <div id="header" style="text-align: center;">
   <div id="header-content" style="display: inline-block;">
-    <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
     <p>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" /></p>
   </div>
 </div>
+
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
   
   <div id='my-details'>
     <h3> 👩 Anna Gan &nbsp; | &nbsp; 👩‍💻 Computing Student &nbsp; | &nbsp;🇦🇺 Melbourne, AU</h3>

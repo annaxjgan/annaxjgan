@@ -16,8 +16,12 @@
       <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'/>
     </a>
     &nbsp;
+    <a href='@mailto:annaxjgan@gmail.com'>
+      <img src='[https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)' alt='GitHub Badge'/>
+    </a>
+    &nbsp;
     <a href='https://github.com/annaxjgan'>
-      <img src='https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white' alt='GitHub Badge'/>
+      <img src='https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white' alt='Gmail Badge'/>
     </a>
   </div>
   

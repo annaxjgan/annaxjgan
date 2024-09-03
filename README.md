@@ -1,6 +1,5 @@
 <div id="header" style="text-align: center;">
   <div id="header-content" style="display: inline-block;">
-    <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     <p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
     <p>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" /></p>
   </div>

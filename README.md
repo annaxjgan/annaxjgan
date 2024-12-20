@@ -4,7 +4,7 @@
     <h2>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" /></h2>
   </div> 
   <div id='my-details'>
-    <h3> 👩 Anna Gan &nbsp; | &nbsp; 👩‍💻 Computing Student &nbsp; | &nbsp;🇦🇺 Melbourne, AU</h3>
+    <h3> 👩 Anna Gan &nbsp; | &nbsp;🇦🇺 Melbourne, AU</h3>
   </div>
     
   <div id='social-medias'>

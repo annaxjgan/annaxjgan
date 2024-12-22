@@ -12,16 +12,9 @@
       <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'/>
     </a>
     &nbsp;
+    &nbsp;
     <a href='mailto:annaxjgan@gmail.com'>
       <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Email Badge'/>
     </a>  
-  <br></br>
-  <br></br>
-  <div id='about-me' align='left'>
-      <ul>
-        <li> Software Engineer Intern at Tiktok ♪ </li>
-        <li> Master of IT Student 👩‍💻</li>
-      </ul>
-  </div>
 </div>
 

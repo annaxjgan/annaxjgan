@@ -19,10 +19,8 @@
   <br></br>
   <div id='about-me' align='left'>
       <ul>
-        <li>👩‍💻 IT (Computing) @ <a href='[https://www.kubrickgroup.com/uk/](https://study.unimelb.edu.au/find/courses/graduate/master-of-information-technology/)'>The University of Melbourne</a></li>
-        <li>💻 Frontend Developer</li>
-        <li>🎓 Imperial College London Class of 2022 </li>
-        <li>🏊‍♀️ National swimmer</li>
+        <li> Software Engineer Intern at Tiktok ♪ </li>
+        <li> Master of IT Student 👩‍💻</li>
       </ul>
   </div>
 </div>

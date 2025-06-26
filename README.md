@@ -8,15 +8,11 @@
   </div>
     
   <div id='social-medias'>
-    <a href='https://www.linkedin.com/in/annagan/'>
-      <img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn Badge'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:annaxjgan@gmail.com'>
-      <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Email Badge'/>
-    </a>  
+    
 </div>
-
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaxjgan)]
+<td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">Add commentMore actions
+      <img src="https://github-readme-stats.vercel.app/api?username=annaxjgan&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    </a>
+</td>
 

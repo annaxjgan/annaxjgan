@@ -8,13 +8,14 @@
   </div>
   
 </div>
-
-<td>
+<div id='header' align='center'>
+  <td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=annaxjgan&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
     </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaxjgan&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" />
     </a>
-</td>
+  </td>
+</div>
 

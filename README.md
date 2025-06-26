@@ -4,15 +4,17 @@
     <h2>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" /></h2>
   </div> 
   <div id='my-details'>
-    <h3> 👩 Anna Gan &nbsp; | &nbsp;🇦🇺 Melbourne, AU</h3>
+    <h3> 👩 Anna Gan &nbsp; | &nbsp;🇦🇺 Sydney, AU</h3>
   </div>
-    
-  <div id='social-medias'>
-    
+  
 </div>
+
 <td>
-    <a href="https://github.com/anuraghazra/github-readme-stats">Add commentMore actions
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=annaxjgan&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaxjgan&layout=donut&theme=tokyonight&bg_color=00000000&hide_border=true" />
     </a>
 </td>
 
